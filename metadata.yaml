@@ -1,0 +1,29 @@
+_repo: The-Mormon-Puzzle-and-How-to-Solve-It_36791
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beers, R. W.
+    alias: Beers, Robert W.
+    birthdate: 1860
+    gutenberg_agent_id: '38476'
+    url: http://www.gutenberg.org/2009/agents/38476
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2011-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36791'
+  lccn: '83113586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mormon Church -- Doctrines'
+- !lcc 'BX'
+- !lcsh 'Church of Jesus Christ of Latter-day Saints -- Doctrines'
+title: The Mormon Puzzle, and How to Solve It
+url: http://www.gutenberg.org/ebooks/36791
