@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38476'
     url: http://www.gutenberg.org/2009/agents/38476
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36791#The-Mormon-Puzzle-and-How-to-Solve-It
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2011-07-20'
 gutenberg_type: Text
